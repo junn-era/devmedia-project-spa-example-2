@@ -1,0 +1,16 @@
+.container_header {
+  padding: 1.25rem;
+  width: 100%;
+  min-height: 10vh;
+  background-color: #808080;
+
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  gap: 2.5rem;
+}
+
+.container_header h1 {
+  text-align: center;
+}
